@@ -14,6 +14,7 @@ One of our upcoming projects, and might be our only project MA which stands for,
     <img alt="https://ma.cinnyx.xyz" src="https://github.com/Striker-Comp-LLC/.github/blob/main/profile/Monkey%20Addictions...png">
 </p>
 # licenseing
+
 We are licenend over Sinner Services STOS, 
 
 ```
