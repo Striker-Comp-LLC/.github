@@ -15,6 +15,7 @@ One of our upcoming projects, and might be our only project MA which stands for,
 </p>
 #licenseing
 We are licenend over Sinner Services STOS, 
+
 ```
 STOS LICENSE
 
